@@ -1,4 +1,4 @@
-# SloppyGrad 🤪 : Because Functioning Software is Overrated
+# SloppyGrad 🤪 : Because Perfection is Overrated
 
 Welcome to the wild and wacky world of SloppyGrad, my attempt to learn neural networks but with sprinkles of chaos, a pinch of instability, and lots of crashes.
 
