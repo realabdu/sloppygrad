@@ -4,7 +4,7 @@ Welcome to the wild and wacky world of SloppyGrad, my attempt to learn neural ne
 
 ## What is SloppyGrad?
 
-SloppyGrad is inspired by micrograd and tinygrad it's and autograd engine, it's here to prove that not all software needs to be perfect and well-behaved. my goal is to contribute to tinygrad i beleive the best way to learn something is to attempt to recreate so here we go.
+SloppyGrad is inspired by micrograd and tinygrad it's and autograd engine here to prove that not all software needs to be perfect and well-behaved. my goal is to contribute to tinygrad i beleive the best way to learn something is to attempt to recreate so here we go.
 
 ## Why Choose SloppyGrad?
 
