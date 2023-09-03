@@ -23,12 +23,16 @@ class Layer:
         return out[0] if len(out) == 1 else out
     def parameters(self):
         return [p for neuron in self.neurons for p in neuron.parameters()] 
+
 class MLP:
+    """an implementation of multilayer perceptron"""
     def __init__(self,num_xs,num_neu):
         # we want to take two consctuve pair in this list     
         specs = [num_xs] + num_neu 
         self.layers = [Layer(specs[i],specs[i+1]) for i in range(len(num_neu))]
 
+    def __repr__(self):
+        return f"MLP of {len(self.layers)} layers, of {[len(l.neurons) for l in self.layers]} neurons"
     def __call__(self,x):
         for layer in self.layers:
             x = layer(x)
