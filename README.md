@@ -6,12 +6,10 @@ Welcome to the wild and wacky world of SloppyGrad, my attempt to learn neural ne
 
 SloppyGrad is inspired by micrograd and tinygrad it's and autograd engine here to prove that not all software needs to be perfect and well-behaved. my goal is to contribute to tinygrad i believe the best way to learn something is to attempt to recreate it so here we go.
 
-## Why Choose SloppyGrad?
-
-- 💥 Unpredictable Bugs: We believe that surprises keep life exciting, so we've included plenty of those.
-- 🤪 Random Behavior: Who wants consistency anyway? Every computation is an adventure with SloppyGrad.
-- 🤯 Unusable Perfection: We don't aim for usability; we aim for a good laugh.
-
 ## Getting Started
 
 (Insert installation instructions here)
+
+## TODO:
+ - write setup.py with requireed dependencies
+
